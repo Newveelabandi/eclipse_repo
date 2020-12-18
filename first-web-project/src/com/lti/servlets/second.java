@@ -7,6 +7,7 @@ public class second {
 		System.out.println(" commit");
 		System.out.println("3rd commit");
 		System.out.println("final commit");
+		System.out.println("pull");
 	}
 
 }
